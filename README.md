@@ -9,8 +9,9 @@ Fast and reliable python script that makes active and/or passive scan to obtain 
   * cd subton
   * sudo python3 subton.py ``// and input your domain-target \\``
 
-## Use for telegrams : [USE](https://t.me/reconsub_tetris_bot)
-  * /run python3 subton.py ``wait for sec``
-  * /enter example.com ``your target``
+## Use for telegrams : [USE](https://t.me/subton_bot)
+  * /subton redacted.com ``redacted is your target-domains``
+  * /info
+  * /registrasi
   
-[subton#1.webm](https://user-images.githubusercontent.com/109766416/183090451-b497e764-8899-4ca3-94e5-d3fe23410e28.webm)
+![vvvvvvvvvvvvvvvvvvv](https://user-images.githubusercontent.com/109766416/183224655-f52b5052-f29c-49ec-ba13-637ef49a81b1.gif)
