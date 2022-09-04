@@ -10,7 +10,7 @@ Fast and reliable python script that makes active and/or passive scan to obtain 
   * sudo python3 subton.py ``// and input your domain-target \\``
 
 ## Use for telegrams : [UPDATE BOT](https://t.me/subton_bot)
-  * /subton redacted.com ``redacted is your target-domains``
+  * /subton redacted.com ``redacted is your target-domains`` 
   * /info
   * /registrasi
   
